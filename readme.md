@@ -1,4 +1,5 @@
-=== Video Share VOD ===
+#Video Share VOD 
+
 Contributors: videowhisper, VideoWhisper.com
 Author: VideoWhisper.com
 Author URI: http://www.videowhisper.com
