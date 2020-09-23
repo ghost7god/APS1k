@@ -18,7 +18,6 @@ Video Share / Video on Demand (VOD) plugin allows WordPress users and admins to 
 
 ## Key Features
 ---------------
-
 * adds video post type to WordPress site
 * extracts thumbnail, generates feature image
 * extracts info: duration, resolution, bitrate, file size
