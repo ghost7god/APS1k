@@ -14,7 +14,7 @@
 * Tested up to: 3.9.1
 * Stable tag: trunk
 
-Video Share / Video on Demand (VOD) plugin allows WordPress users and admins to share videos and others to watch from various devices 
+**Video on Demand plugin allows WordPress users and admins to share videos and others to watch from various devices**
 
 ## Key Features
 ---------------
@@ -29,7 +29,7 @@ Video Share / Video on Demand (VOD) plugin allows WordPress users and admins to 
 * premium users that don't see ads
 * mass video upload
 * mass video import (from server)
-* see more [Video Share VOD Features](http://videosharevod.com/features/Video Share VOD Features")
+* see more [Video Share VOD Features](http://videosharevod.com/features "Video Share VOD Features")
 
 ## Membership VOD
 -----------------
@@ -38,7 +38,7 @@ Video Share / Video on Demand (VOD) plugin allows WordPress users and admins to 
 * role playlists: assign videos as accessible by certain roles
 * exception playlists: free, registered, unpublished
 * show preview and custom message when inaccessible
-* read more about [Video On Demand](http://videosharevod.com/features/video-on-demand/"Video On Demand")
+* read more about [Video On Demand](http://videosharevod.com/features/video-on-demand/ "Video On Demand")
 
 ## Players
 ----------
@@ -61,7 +61,7 @@ Video Share / Video on Demand (VOD) plugin allows WordPress users and admins to 
 * status / progress bar for each upload
 * upredictable secure upload file names
 * fallback to standard upload for older browsers
-* mobile video upload **iOS 6 & up / Android 3 & up**
+* mobile video upload **iOS 6+ Android 3+**
 * backend multi upload menu
 * read more about [Video Uploader](http://videosharevod.com/features/video-uploader/ "Video Uploader")
 
@@ -85,14 +85,14 @@ Video Share / Video on Demand (VOD) plugin allows WordPress users and admins to 
 ## Screenshots
 --------------
 
-1. Video list (AJAX load and update, pagination, info)
-2. HTML5 video upload **Multi file, AJAX, Drag & Drop, fallback (standard upload as backup), iOS & Android support**
-3. RTMP player support **fast search, no direct file access, HD**
-4. HTML5 player **plain and HLS, video conversion for mobile**
+1. Video list **AJAX load --update --pagination --info**
+2. HTML5 video uploads **Multi file AJAX --Drag & Drop fallback --standard upload as backup iOS & Android support**
+3. RTMP player support **fast search no direct file access HD**
+4. HTML5 player has a **plain and HLS video conversion for mobile**
 5. Admin settings **VOD setup**
-6. VOD access roles playlists, custom message
+6. VOD access roles playlists with **custom message**
 7. Live Streaming channel management **with archive import and video upload**
-8. Select category, order by date/views/watch time, move to another page with AJAX
+8. Select category order by date/views/watch --time move to another page with AJAX
 
 ## Documentation
 ----------------
@@ -110,7 +110,7 @@ Video Share / Video on Demand (VOD) plugin allows WordPress users and admins to 
 > - videowhisper_preview video="0" - Preview only.
 > - videowhisper_player_html source="" source_type="" poster="" width="" height="" - HTML file player.
 
-**For more details see Video Share VOD - Documentation menu after installing plugin**
+**For more details see Video Share VOD documentation menu after installing plugin**
 
 ## Demo
 -------
